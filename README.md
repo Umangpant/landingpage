@@ -1,2 +1,6 @@
-# landingpage
-Codsoft
+![landimg1](https://github.com/Umangpant/landingpage/assets/142666170/5591a142-d80c-4ff6-b3e7-4c37d7d505c0)
+![landimg2](https://github.com/Umangpant/landingpage/assets/142666170/792ec90f-5ea8-4c81-9155-7036264877f0)
+![landimg3](https://github.com/Umangpant/landingpage/assets/142666170/f29d1d79-6f50-4fb6-8b10-11a565cf1762)
+![landimg4](https://github.com/Umangpant/landingpage/assets/142666170/79176b36-a04d-44dc-b1ac-d61d6fbe6659)
+![landimg5](https://github.com/Umangpant/landingpage/assets/142666170/4d9fa33f-1df7-4dcf-a032-7257d57413cd)
+![landimg6](https://github.com/Umangpant/landingpage/assets/142666170/381a711c-76c3-458e-a601-090c1314c929)
